@@ -113,7 +113,7 @@ For a full list of all authors and contributors, check [the contributors page](h
 SQL Server to Microsoft Azure Training Course follows good practices of security, but 100% security can't be granted in software.
 SQL Server to Microsoft Azure Training Course is provided **"as is"** without any **warranty**. Use at your own risk.
 
-_For more info, please refer to the [security](docs/SECURITY.md)._
+_For more info, please refer to the [security policy](docs/SECURITY.md)._
 
 ## License
 
