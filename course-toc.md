@@ -5,31 +5,48 @@
 ### Microsoft Azure Hosting Options
 
 * IaaS
-  * SS IaaS Agent extension
+  * Marketplace images
+  * SQL Server IaaS Agent extension
 * Azure SQL Database
 * Azure SQL Database Managed Instance
-* Feature parity
+* Azure Synapse SQL Pool
 
 ### SQL Server Database Migration
 
+* Azure Arc management
+  * Onboarding & capabilities
 * DMA assessment
 * Stretch DB
-* Offline approach (BACPAC)
+  * DMA first
 * Online approaches
-  * SSMS deploy to Azre
-  * DMS
+  * SSMS deploy to Azure
+  * DMA migration
+  * DMS migration
+
+### Deploy Azure SQL Database
+
+* Portal
+  * Pricing options / reservations
+* Bicep
+* DTU vs vCore
+* Elastic pools
 
 ### Database Security
 
+
+* Firewall
 * Auditing
 * TDE
 * DDM
 * Always Encrypted
-* Firewall
 * Private endpoints
+
+## DAY 2 of 2
 
 ### High Availability & Disaster Recovery
 
+* Backup SQL Server VM
+  * RS Vault
 * Backup & restore
 * Geo-replication and failover
 
