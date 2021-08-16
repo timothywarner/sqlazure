@@ -33,13 +33,28 @@
 
 ### Database Security
 
-
 * Firewall
 * Auditing
 * TDE
 * DDM
 * Always Encrypted
 * Private endpoints
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## DAY 2 of 2
 
