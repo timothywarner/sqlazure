@@ -31,6 +31,12 @@
 * DTU vs vCore
 * Elastic pools
 
+
+
+
+
+## DAY 2 of 2
+
 ### Database Security
 
 * Firewall
@@ -38,25 +44,8 @@
 * TDE
 * DDM
 * Always Encrypted
+* Service Endpoints
 * Private endpoints
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## DAY 2 of 2
 
 ### High Availability & Disaster Recovery
 
@@ -64,6 +53,7 @@
   * RS Vault
 * Backup & restore
 * Geo-replication and failover
+  * Failover groups
 
 ### Monitoring and Optimization
 
@@ -74,5 +64,24 @@
 ### Azure SQL Integration Points
 
 * App Service
+  * Deployment slots
+  * VNet integration
 * Function Apps
 * Event Hub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
