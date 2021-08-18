@@ -24,7 +24,35 @@
 * [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/)
 * [Azure Bicep CLI](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-cli)
 * [SQL Server sample databases](https://docs.microsoft.com/en-us/sql/samples/sql-samples-where-are)
+* Log Analytics Query Playground
+* Azure Speed Test Utility
 
 ## Security
 
 * [Database and server firewall rules](https://docs.microsoft.com/en-us/azure/azure-sql/database/firewall-configure)
+* Transparent Data Encryption
+* Dynamic Data Masking
+* Classification
+* Azure Key Vault
+* Always Encrypted
+
+## High Availability
+
+* Geo-replication
+* Failover groups
+
+## Monitoring
+
+* Azure Monitor
+* Azure Alerts
+* Azure Service Health
+* Log Analytics workspace
+* KQL Reference
+* SQL Server management solutions
+* Azure Sentinel
+
+## Integration
+
+* Azure App Service
+* VNet integration
+* Deployment slots
